@@ -42,7 +42,7 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "About Us"
-		subtitle   = "Framing 1851 is a photography company specializing in capturing the beauty of Florida State University. The company was created to provide photos to students, alumni, and supporters of FSU so they can proudly display and remember our Alma Mater."
+		subtitle   = "Framing 1851 is a photography company specializing in capturing the beauty of Florida State University. The company was created to provide photos to students, alumni, and supporters of FSU so we can proudly display and remember our Alma Mater."
 		buttonText = "Find out more"
 
 
