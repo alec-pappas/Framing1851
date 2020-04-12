@@ -1,0 +1,108 @@
+baseurl = "https://example.org/"
+languageCode = "en-us"
+title = "Framing 1851"
+theme = "hugo-creative-theme"
+googleAnalytics = ""
+
+[params]
+  
+  # You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more information take a look at the README.
+
+	# To provide some metadata for search engines feel free to add some
+	# information about you and your website.
+	name = "Framing 1851"
+	description = "Framing 1851 is a photography company specializing in capturing the beauty of Florida State University. The company was created to provide photos to students, alumni, and supporters of FSU so they can proudly display and remember our Alma Mater."
+  
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Framing 1851"
+
+		[params.navigation.links]
+			about     = "About"
+			services  = "Services"
+			portfolio = "Portfolio"
+			contact   = "Contact"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "About Us"
+		subtitle   = "Framing 1851 is a photography company specializing in capturing the beauty of Florida State University. The company was created to provide photos to students, alumni, and supporters of FSU so they can proudly display and remember our Alma Mater."
+		buttonText = "Find out more"
+
+
+	# About section
+	[params.about]
+		headline    = "Monthly Photos"
+		description = "Three new photos will be available for purchase every month. Once the month ends, the photos will be replaced with new ones available for purchase. Make sure to check back each month for the new photo releases!"
+		#buttonText  = "Get started!"
+
+
+	# Service section
+	[params.services]
+		headline = "About Our Products"
+
+        [[params.services.list]]
+            icon = "fa-camera"
+            title = "Photos by FSU Alumnus"
+            description = "Framing 1851's photos are created by an FSU alumnus."
+       
+       [[params.services.list]]
+           icon = "fa-print"
+           title = "Limited Availability"
+           description = "Prints are limited to the three photos of the month"
+           
+        [[params.services.list]]
+			icon = "fa-book"
+			title = "Strength Skill Character Photobook"
+			description = "Photobook is currently in production, available this fall!"
+
+		        [[params.services.list]]
+           icon = "fa-heart"
+           title = "Giving Back"
+           description = "A portion of the proceeds are donated back to FSU"
+
+
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Location"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+    # Aside section
+	[params.aside]
+		headline = "Email for Print Information"
+
+		[params.aside.button]
+			text = "Order Information"
+			link = "mailto:framing1851@gmail.com"
+
+	# Contact section
+	[params.contact]
+		headline = "Let's Get In Touch!"
+		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
+		phone = "561-319-0383"
+		email = "framing1851@gmail.com"
+
+	# Google Maps section
+	# [params.location]
+	# 	latitude  = "34.007850"
+	# 	longitude = "-118.499305"
+	# 	maps_api_key = ""

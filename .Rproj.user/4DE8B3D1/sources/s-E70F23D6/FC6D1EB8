@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586733642209.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2338883712",
+    "id" : "FC6D1EB8",
+    "lastKnownWriteTime" : 1586733673,
+    "last_content_update" : 1586733673486,
+    "path" : "C:/Users/Alec/Desktop/Framing1851/data/projects/2014-07-05-project-1.yaml",
+    "project_path" : "data/projects/2014-07-05-project-1.yaml",
+    "properties" : {
+        "cursorPosition" : "4,25",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

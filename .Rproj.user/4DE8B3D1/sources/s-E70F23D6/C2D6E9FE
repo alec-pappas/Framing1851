@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586521899793.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2920133597",
+    "id" : "C2D6E9FE",
+    "lastKnownWriteTime" : 1586733630,
+    "last_content_update" : 1586733630135,
+    "path" : "C:/Users/Alec/Desktop/Framing1851/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "83,26",
+        "scrollLine" : "73"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
