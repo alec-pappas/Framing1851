@@ -48,34 +48,34 @@ googleAnalytics = ""
 
 	# About section
 	[params.about]
-		headline    = "Monthly Photos"
-		description = "Three new photos will be available for purchase every month. Once the month ends, the photos will be replaced with new ones available for purchase. Make sure to check back each month for the new photo releases!"
+		headline    = "COMING SOON"
+		description = "Photos are not currently for sale"
 		#buttonText  = "Get started!"
 
 
 	# Service section
 	[params.services]
-		headline = "About Our Products"
+		headline = "What We Offer - Coming Soon"
 
         [[params.services.list]]
             icon = "fa-camera"
             title = "Photos by FSU Alumnus"
-            description = "Framing 1851's photos are created by an FSU alumnus."
+            description = "Framing 1851's photos are created by an FSU alumnus"
        
        [[params.services.list]]
            icon = "fa-print"
-           title = "Limited Availability"
-           description = "Prints are limited to the three photos of the month"
+           title = "Print Limits"
+           description = "Photos will have a limited print count. Orders will be limited to the three photos of the month"
            
         [[params.services.list]]
 			icon = "fa-book"
 			title = "Strength Skill Character Photobook"
-			description = "Photobook is currently in production, available this fall!"
+			description = "Photobook is currently in production"
 
 		        [[params.services.list]]
            icon = "fa-heart"
            title = "Giving Back"
-           description = "A portion of the proceeds are donated back to FSU"
+           description = "A portion of the proceeds will be donated back to FSU"
 
 
 
@@ -88,10 +88,10 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "Email for Print Information"
+		headline = "Email for More Information"
 
 		[params.aside.button]
-			text = "Order Information"
+			text = "More Information"
 			link = "mailto:framing1851@gmail.com"
 
 	# Contact section
